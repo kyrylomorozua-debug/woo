@@ -1,0 +1,5 @@
+{
+  "name": "WooCommerce CRM",
+  "description": "A simple CRM system with Orders, Products, and Settings imported from WooCommerce.",
+  "requestFramePermissions": []
+}
